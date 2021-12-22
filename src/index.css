@@ -35,3 +35,7 @@ input {
   margin-bottom: 5px;
   border-radius: 5px;
 }
+h1,
+h2 {
+  text-align: center;
+}

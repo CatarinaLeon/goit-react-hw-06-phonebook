@@ -38,7 +38,7 @@ const App = () => {
       return;
     }
     if (name === "") {
-      alert(`Please type your info in the field. It is empty.`);
+      alert("Please type your info in the field. It is empty.");
     } else {
       dispatch(actions.addContacts(contactName));
     }
